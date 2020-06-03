@@ -791,12 +791,6 @@
         "Version": 29
       },
       {
-        "DisplayNameOverride": "OpenTable Widget",
-        "Id": "HJCEAwEu9v",
-        "Module": "html",
-        "Version": 8
-      },
-      {
         "DisplayNameOverride": "",
         "Id": "uutq8gIJJv",
         "Module": "item_list_i",
@@ -819,6 +813,12 @@
         "Id": "HHV2lNM2ME",
         "Module": "nearby_locations",
         "Version": 23
+      },
+      {
+        "DisplayNameOverride": "OpenTable Widget",
+        "Id": "HJCEAwEu9v",
+        "Module": "html",
+        "Version": 8
       },
       {
         "DisplayNameOverride": "",
